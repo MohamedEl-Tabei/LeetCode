@@ -14,6 +14,10 @@
 
 ### 2349. Design a Number Container System
 
+<!-- 2364 -->
+
+### 2364. Count Number of Bad Pairs
+
 <!-- 3160 -->
 
 ### 3160. Find the Number of Distinct Colors Among the Balls
