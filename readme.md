@@ -22,6 +22,10 @@
 
 ### 2364. Count Number of Bad Pairs
 
+<!-- 3066 -->
+
+### 3066. Minimum Operations to Exceed Threshold Value II
+
 <!-- 3160 -->
 
 ### 3160. Find the Number of Distinct Colors Among the Balls
