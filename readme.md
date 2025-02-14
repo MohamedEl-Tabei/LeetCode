@@ -14,6 +14,10 @@
 
 ### 1790. Check if One String Swap Can Make Strings Equal
 
+<!-- 1910 -->
+
+### 1910. Remove All Occurrences of a Substring
+
 <!-- 2342 -->
 
 ### 2342. Max Sum of a Pair With Equal Sum of Digits
