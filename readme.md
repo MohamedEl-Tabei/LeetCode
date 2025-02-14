@@ -6,6 +6,10 @@
 
 ### 1341. Movie Rating
 
+<!-- 1352 -->
+
+### 1352. Product of the Last K Numbers
+
 <!-- 1790 -->
 
 ### 1790. Check if One String Swap Can Make Strings Equal
