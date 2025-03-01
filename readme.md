@@ -30,6 +30,10 @@
 
 ### 2364. Count Number of Bad Pairs
 
+<!-- 2460 -->
+
+### 🟢 2460. Apply Operations to an Array
+
 <!-- 2637 -->
 
 ### 2637. Promise Time Limit
