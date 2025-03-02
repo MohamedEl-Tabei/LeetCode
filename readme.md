@@ -34,6 +34,10 @@
 
 ### 🟢 2460. Apply Operations to an Array
 
+<!-- 2570 -->
+
+### 🟢 2570. Merge Two 2D Arrays by Summing Values
+
 <!-- 2637 -->
 
 ### 🟡 2637. Promise Time Limit
