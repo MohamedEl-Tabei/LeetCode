@@ -18,6 +18,10 @@
 
 ### 🟡 1910. Remove All Occurrences of a Substring
 
+<!-- 2161 -->
+
+### 🟡 2161. Partition Array According to Given Pivot
+
 <!-- 2342 -->
 
 ### 🟡 2342. Max Sum of a Pair With Equal Sum of Digits
