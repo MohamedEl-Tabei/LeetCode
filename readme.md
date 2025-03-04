@@ -10,6 +10,10 @@
 
 ### 🟡 1352. Product of the Last K Numbers
 
+<!-- 1780 -->
+
+### 🟡 1780. Check if Number is a Sum of Powers of Three
+
 <!-- 1790 -->
 
 ### 🟢 1790. Check if One String Swap Can Make Strings Equal
