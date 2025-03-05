@@ -46,6 +46,10 @@
 
 ### 🟢 2570. Merge Two 2D Arrays by Summing Values
 
+<!-- 2579 -->
+
+### 🟡 2579. Count Total Number of Colored Cells
+
 <!-- 2637 -->
 
 ### 🟡 2637. Promise Time Limit
