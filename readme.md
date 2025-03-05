@@ -65,3 +65,9 @@
 <!-- 3174 -->
 
 ### 🟢 3174. Clear Digits
+
+##
+<div align="center">
+  <img height="471" src="https://i.ibb.co/qLBgj6n4/download.png"  />
+</div>
+
