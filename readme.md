@@ -54,6 +54,10 @@
 
 ### 🟡 2637. Promise Time Limit
 
+<!-- 2965 -->
+
+### 🟢 2965. Find Missing and Repeated Values
+
 <!-- 3066 -->
 
 ### 🟡 3066. Minimum Operations to Exceed Threshold Value II
@@ -67,7 +71,7 @@
 ### 🟢 3174. Clear Digits
 
 ##
+
 <div align="center">
   <img height="471" src="https://i.ibb.co/qLBgj6n4/download.png"  />
 </div>
-
