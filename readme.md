@@ -42,6 +42,10 @@
 
 ### 🟢 2460. Apply Operations to an Array
 
+<!-- 2523 -->
+
+### 🟡 2523. Closest Prime Numbers in Range
+
 <!-- 2570 -->
 
 ### 🟢 2570. Merge Two 2D Arrays by Summing Values
