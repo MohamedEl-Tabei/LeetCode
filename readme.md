@@ -38,6 +38,10 @@
 
 ### 🟡 2364. Count Number of Bad Pairs
 
+<!-- 2379 -->
+
+### 🟢 2379. Minimum Recolors to Get K Consecutive Black Blocks
+
 <!-- 2460 -->
 
 ### 🟢 2460. Apply Operations to an Array
