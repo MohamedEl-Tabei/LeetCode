@@ -78,6 +78,10 @@
 
 ### 🟢 3174. Clear Digits
 
+<!-- 3208 -->
+
+### 🟡 3208. Alternating Groups II
+
 ##
 
 <div align="center">
