@@ -62,6 +62,10 @@
 
 ### 🟡 2637. Promise Time Limit
 
+<!-- 2942 -->
+
+### 🟢 2942. Find Words Containing Character
+
 <!-- 2965 -->
 
 ### 🟢 2965. Find Missing and Repeated Values
