@@ -22,6 +22,10 @@
 
 ### 🟡 1910. Remove All Occurrences of a Substring
 
+<!-- 2131 -->
+
+### 🟡 2131. Longest Palindrome by Concatenating Two Letter Words
+
 <!-- 2161 -->
 
 ### 🟡 2161. Partition Array According to Given Pivot
